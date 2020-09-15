@@ -16,4 +16,6 @@ public class RefactorConvertAnonymousClassToNestedClass {
 		});
 		return list;
 	}
+	
+	// Option: Write a lambda-Function
 }
